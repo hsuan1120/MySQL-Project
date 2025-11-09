@@ -19,7 +19,7 @@ The purpose of the stage was to ensure the dataset is reliable before aggregatio
 ## C. Exploratory Data Analysis
 After cleaning the datasets, SQL queries were excuted to explore patterns such as:
 
-- Total Layoffs by industry and company
+- Total layoffs by industry and company
 - Total layoffs by time
 - Calculate cumulative running layoffs over time
 - Find the top 5 companies with the highest layoffs for each year
